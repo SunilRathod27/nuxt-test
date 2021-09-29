@@ -1,5 +1,5 @@
 # nuxt-test
-[LINK](sunil-nuxt-test.surge.sh)
+[(sunil-nuxt-test.surge.sh](sunil-nuxt-test.surge.sh)
 
 ## Build Setup
 
