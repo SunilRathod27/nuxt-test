@@ -1,4 +1,5 @@
 # nuxt-test
+sunil-nuxt-test.surge.sh
 
 ## Build Setup
 
